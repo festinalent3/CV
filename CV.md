@@ -49,25 +49,25 @@ So well, just going to leave this here:
 
 
 
-Mar 2016 – Jun 2016
-MAKERS ACADEMY – RONIN | Junior developer
+Mar 2016 – Jun 2016  
+MAKERS ACADEMY – RONIN | Junior developer  
 Makers Academy is Europe's leading Web Developer boot camp, accepting only 10% of applicants. What I have learnt: Agile, Test-driven development, Ruby, HTML5, JavaScript, CSS, Git & more!
 
-2012 – 2013
-KTH – ROYAL INSTITUTE OF TECHNOLOGY | B.Sc. in Information and Communication Technology
+2012 – 2013  
+KTH – ROYAL INSTITUTE OF TECHNOLOGY | B.Sc. in Information and Communication Technology  
 Current GPA: 4.9 [5.0] – One year completed
 
-2008 – 2012
-UNIVERSITY OF LINKÖPING| Master of Science in Business and Economics
+2008 – 2012  
+UNIVERSITY OF LINKÖPING| Master of Science in Business and Economics  
 Majors: Marketing, Strategic management, Management control and Supply Chain Management/Logistics.
 
 Master thesis (2012), LIU:
-Incubators – the link between Swedish start-ups and international opportunities
+Incubators – the link between Swedish start-ups and international opportunities  
 Grade: VG (A).
 An extract from grading professor's assessment:
 
 “… admirably organized, conducted and reported thesis…. your work is one of the best we have seen…. What you have completed in combination with a large measure of independence throughout the spring makes your VG obvious.”
 
-2010                           
-NANYANG BUSINESS SCHOOL | Business studies fall 2010, Singapore
+2010                     
+NANYANG BUSINESS SCHOOL | Business studies fall 2010, Singapore  
 Courses: Information technology, Strategic management, Negotiation & dispute resolution, Management of intellectual property & innovation

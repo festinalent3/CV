@@ -1,29 +1,33 @@
 # CV - Emma Sjöström
 
-I am a Swedish developer who thrives from working with other people. If they share my intense interest in technology, coding and contemplation of pseudo-intellectual questions like “is there a way to implement the truth paradox using a quantum computer”? Coding is a great passion of mine that, like most infatuations, raises more questions than objections. Do I love it because it fits the curious ways of my mind? Is it because I get to solve complex problems on a daily basis? Or is it because GIF:s are accepted as a means of communication between developers? It's probably the GIF:s, but then again, I am a simple woman.
+I am a Swedish junior developer who thrives from working with other people. If they share my intense interest in technology, coding and contemplation of pseudo-intellectual questions like “is there a way to implement the truth paradox using a quantum computer”? Coding is a great passion of mine that, like most infatuations, raises more questions than objections. Do I love it because it fits the curious ways of my mind? Is it because I get to solve complex problems on a daily basis? Or is it because GIF:s are accepted as a means of communication between developers? It's probably the GIF:s, but then again, I am a simple woman.
 
-### Technologies I am getting comfy with (WIP)
+### Technologies I am getting comfy with
 
 **Languages:**  
-* Ruby, JavaScript (ES5/ES6), HTML, CSS, Java  
+Ruby, JavaScript (ES5/ES6), HTML, CSS, Java  
 
-**Testing:**
-* Jasmine, Karma, Protractor, Selenium, Rspec, Capybara
+**Testing:**  
+Jasmine, Karma, Protractor, Selenium, Rspec, Capybara
 
 **Libraries/ORMs/blarghs:**  
-* jQuery, Phaser, DataMapper, Bootstrap    
+jQuery, Phaser, DataMapper, Bootstrap, ActiveRecord    
 
 **Frameworks:**  
-* Ruby on Rails, AngularJS, Sinatra
+Ruby on Rails, AngularJS, Sinatra
 
 **Other tools:**  
-* Travis CI, Coveralls, [Lingon](https://github.com/spotify/lingon)
+Travis CI, Coveralls, [Lingon](https://github.com/spotify/lingon)
 
 
-### Projects
+### Some stuff I've built
 
-WIP
-
+| Description  | Link to repo | Technologies         |
+| :------------ | :-----------: | -------------------: |
+| An early ruby project - "twitter clone"     | [Chitter challenge](https://github.com/festinalent3/chitter-challenge)          | Ruby, Sinatra, Postgres, DataMapper, HTML, CSS, Capybara, RSpec |
+| Chrome plugin - mark pages as "bullshit"    | [BS alert](https://github.com/festinalent3/BS-alert)      | Ruby on rails, JavScript, HTML, CSS, Jasmine, Protractor               |
+| A 2D game - "Space Invaders" Play it [here!](https://makers-invaders.herokuapp.com/)    |[Makers Invaders](https://github.com/festinalent3/final-project-makers)      | JavaScript (ES6), HTML, CSS, [Phaser](http://phaser.io/), Karma/Jasmine               |
+| A 'practice' tech test    | [Bank tech test](https://github.com/festinalent3/bank_tech_test)      | Ruby, RSpec               |
 
 
 ### So, who am I anyway?
@@ -51,10 +55,10 @@ And well, just going to leave this here:
 > _Oskar Linse, CEO Spontano_
 
 
-### Honorable institutions of indoctrination
+### Honorable institutions of higher indoctrination
 
 
-Mar 2016 – Jun 2016  
+Mar 2016 – Jul 2016  
 **MAKERS ACADEMY – RONIN | Junior developer**  
 Makers Academy is Europe's leading Web Developer boot camp, accepting only 10% of its applicants. What I have learnt: Agile, Test-driven development, Ruby, HTML5, JavaScript, Git, CSS, OOP, BDD, SOLID, MVC, SRP, XP, REST, FTW!
 
@@ -75,3 +79,11 @@ _“… admirably organized, conducted and reported thesis…. your work is one 
 2010                     
 **NANYANG BUSINESS SCHOOL | Business studies fall 2010, Singapore**  
 Courses: Information technology, Strategic management, Negotiation & dispute resolution, Management of intellectual property & innovation
+
+
+### Contact me
+
+I am currently doing some freelance work as a developer and am available for hire (full-time) from late August/September 2016.
+
+emma.sjoestroem [@] gmail.com   
+[linkedIn](https://se.linkedin.com/in/emmasjostrom)   

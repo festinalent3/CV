@@ -1,6 +1,6 @@
 # CV - Emma Sjöström
 
-I am a Swedish junior developer who thrives from working with other people. If they share my intense interest in technology, coding and contemplation of pseudo-intellectual questions like “is there a way to implement the truth paradox using a quantum computer”? Coding is a great passion of mine that, like most infatuations, raises more questions than objections. Do I love it because it fits the curious ways of my mind? Is it because I get to solve complex problems on a daily basis? Or is it because GIF:s are accepted as a means of communication between developers? It's probably the GIF:s, but then again, I am a simple woman.
+I am a Swedish junior developer who thrives from working with other people. Especially if they share my intense interest in technology, coding and contemplation of pseudo-intellectual questions like “is there a way to implement the truth paradox using a quantum computer”? Coding is a great passion of mine that, like most infatuations, raises more questions than objections. Do I love it because it fits the curious ways of my mind? Is it because I get to solve complex problems on a daily basis? Or is it because GIF:s are accepted as a means of communication between developers? It's probably the GIF:s, but then again, I am a simple woman.
 
 ### Technologies I am getting comfy with
 

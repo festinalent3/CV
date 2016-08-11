@@ -40,7 +40,7 @@ Well, not all of us gets to choose our ~~superpowers~~!
 #### Autodidact
 I am used to acquiring knowledge on my own. One example is when I decided to design and build a couple of websites ([**this one**](http://littorin.com/) and [**this one**](http://psykometrika.se/)), without having any prior experience in design, HTML or CSS. I later learnt the art of good code craftsmanship, so please refrain from judging my work based on these two harmless experiments!
 
-During my year as a Computer Science student, we got a tricky problem from a sly professor. Apparently, it had only ever been solved by one other student. But, since I didn’t know any better at the time, I figured it out: [**Insert Link to repo**](). I then dropped out of school and started working for the former global CMO of Google. But that my friend, is a different story.
+During my year as a Computer Science student, we got a tricky problem from a sly professor. Apparently, it had only ever been solved by one other student. But, since I didn’t know any better at the time, I figured it out. I then dropped out of school and started working for the former global CMO of Google. But that my friend, is a different story.
 
 #### Teamplayer
 I am and always have been utterly indifferent about what’s at the end of the rainbow. For me, it’s about the small wins on the way, rather than the prestige at the end. That's why teams are awesome. In a team, those wins can be amplified if you get the pleasure of working with people who are more experienced than you, but in the best of worlds you get to contribute with your knowledge too.

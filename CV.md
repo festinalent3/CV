@@ -24,9 +24,9 @@ Travis CI, Coveralls, [Lingon](https://github.com/spotify/lingon)
 
 | Description  | Link to repo | Technologies         |
 | :------------ | :-----------: | -------------------: |
+| A 2D game - "Space Invaders" Play it [here!](https://makers-invaders.herokuapp.com/)    |[Makers Invaders](https://github.com/festinalent3/final-project-makers)      | JavaScript (ES6), HTML, CSS, [Phaser](http://phaser.io/), Karma/Jasmine               |
 | An early ruby project - "twitter clone"     | [Chitter challenge](https://github.com/festinalent3/chitter-challenge)          | Ruby, Sinatra, Postgres, DataMapper, HTML, CSS, Capybara, RSpec |
 | Chrome plugin - mark pages as "bullshit"    | [BS alert](https://github.com/festinalent3/BS-alert)      | Ruby on rails, JavScript, HTML, CSS, Jasmine, Protractor               |
-| A 2D game - "Space Invaders" Play it [here!](https://makers-invaders.herokuapp.com/)    |[Makers Invaders](https://github.com/festinalent3/final-project-makers)      | JavaScript (ES6), HTML, CSS, [Phaser](http://phaser.io/), Karma/Jasmine               |
 | A 'practice' tech test    | [Bank tech test](https://github.com/festinalent3/bank_tech_test)      | Ruby, RSpec               |
 
 

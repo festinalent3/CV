@@ -48,7 +48,7 @@ I am and always have been utterly indifferent about what’s at the end of the r
 I have also worked with four early stage start-ups (as a marketer - [**read the full background story on LinkedIn, you won't believe what happened next!**](https://se.linkedin.com/in/emmasjostrom
 )). I know how the team and team dynamics has a tendency to make or break pretty much everything.
 
-And well, just going to leave this here:
+I also paid this person to say nice stuff about me:
 
 > “I worked close alongside Emma while she was Marketing Director at Spontano. In my eyes Emma is a perfect marketer - enthusiastic, very intelligent, creative, trend-aware and with excellent emotional qualities. Combined with being a dedicated team player and being able to shift focus on different tasks and projects handled simultaneously - she is a valuable asset at any company. For Spontano, Emma created value in many ways; for example, she implemented solutions and routines to create better user retention, created new and managed existing partnerships (i.g Allt Om Stockholm, GuidePal & TaxiStockholm), created and led several marketing campaigns - and she greatly helped with building a good and healthy company culture.”
 

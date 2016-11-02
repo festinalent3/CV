@@ -8,13 +8,13 @@ I am a Swedish junior developer who thrives from working with other people. Espe
 Ruby, JavaScript (ES5/ES6), HTML, CSS, Java  
 
 **Testing:**  
-Jasmine, Karma, Protractor, Selenium, Rspec, Capybara
+Jasmine, Karma, Protractor, Selenium, Rspec, Capybara, Mocha, Enzyme
 
-**Libraries/ORMs/blarghs:**  
-jQuery, Phaser, DataMapper, Bootstrap, ActiveRecord    
+**ORMs (not sure why this is a category here):**  
+DataMapper, ActiveRecord    
 
-**Frameworks:**  
-Ruby on Rails, AngularJS, Sinatra
+**Frameworks/libraries:**  
+Ruby on Rails, AngularJS, Sinatra, React, Redux, jQuery, Phaser, Bootstrap
 
 **Other tools:**  
 Travis CI, Coveralls, [Lingon](https://github.com/spotify/lingon)
@@ -82,8 +82,6 @@ Courses: Information technology, Strategic management, Negotiation & dispute res
 
 
 ### Contact me
-
-I am currently doing some freelance work as a developer and am available for hire (full-time) from late August/September 2016.
 
 emma.sjoestroem [@] gmail.com   
 [linkedIn](https://se.linkedin.com/in/emmasjostrom)   

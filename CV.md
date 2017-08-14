@@ -45,7 +45,7 @@ During my year as a Computer Science student, we got a tricky problem from a sly
 #### Teamplayer
 I am and always have been utterly indifferent about what’s at the end of the rainbow. For me, it’s about the small wins on the way, rather than the prestige at the end. That's why teams are awesome. In a team, those wins can be amplified if you get the pleasure of working with people who are more experienced than you, but in the best of worlds you get to contribute with your knowledge too.
 
-I have also worked with four early stage start-ups (as a marketer - [**read the full background story on LinkedIn, you won't believe what happened next!**](https://se.linkedin.com/in/emmasjostrom
+I have also worked with four early stage start-ups (mainly as a marketer - [**read the full background story on LinkedIn, you won't believe what happened next!**](https://se.linkedin.com/in/emmasjostrom
 )). I know how the team and team dynamics has a tendency to make or break pretty much everything.
 
 I also paid this person to say nice stuff about me:
